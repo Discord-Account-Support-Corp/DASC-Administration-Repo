@@ -1,0 +1,25 @@
+title: DASC Administration
+description: The Official DASC© Administration Documentation
+theme: jekyll-theme-cayman
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics: false
+
+# Site settings
+url: "https://discord-account-support-corp.github.io"
+baseurl: "/DASC-Administration-Repo"
+repository: "Discord-Account-Support-Corp/DASC-Administration-Repo"
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
