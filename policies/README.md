@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Policies & Guidelines
 
 This section contains all official DASC© policies and operational guidelines.
