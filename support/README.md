@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Support & Resources
 
 Get help and access support resources.
